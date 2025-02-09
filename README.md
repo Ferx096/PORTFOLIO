@@ -70,7 +70,7 @@ generación de predicciones en tiempo real.
 ![Flask](https://img.shields.io/badge/Flask-357ebd?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-357ebd?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-357ebd?style=for-the-badge&logo=postman&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-EE82EE?style=for-the-badge&logo=optuna&logoColor=white)
+
 
 
 **Fases:**
