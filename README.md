@@ -45,7 +45,9 @@ Científico de datos e ingeniero agrónomo poseo una sólida experiencia en la r
 generación de predicciones en tiempo real.
 - Trabajo con distintos clientes y equipos para los proyectos realizados de diferentes industrias
 
+
 ---
+
 
 # **PROYECTOS SELECCIONADOS**
 
@@ -81,7 +83,9 @@ generación de predicciones en tiempo real.
 
 ![brain_tumor](images/brain_.png)
 
+
 ---
+
 
 ## Analisis y clasificiacion de imagenes de mamografia con modelos preentrenados - version1 / Noviembre - Enenro 2025
 **Herramientas del proyecto:**
