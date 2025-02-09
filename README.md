@@ -1,4 +1,4 @@
-# **Acerca de mi**
+# **ACERCA DE MI**
 
 Científico de datos e ingeniero agrónomo poseo una sólida experiencia en la recopilación, transformación y análisis de datos complejos para consolidar conocimientos valiosos. Mi dominio en esta área me permite abordar una amplia gama de desafíos empresariales con un enfoque basado en datos. Apasionado por el aprendizaje continuo y orientado a la innovación. 
 
@@ -34,17 +34,19 @@ Científico de datos e ingeniero agrónomo poseo una sólida experiencia en la r
 
 ## Experiencia Laboral
 
-### OMDENA
+### Omdena
 
 **Junior Machine Learning Engineer (Volunteering) (12/2024 – actualmente)**
+
 Preproceso los datos  y realizar  EDA utilizando herramientas en Python como Pandas, Numpy y Scikit-learn.
 Descubro insights de la visualización de los datos en matplotlib, seaborn, plotly y Power BI.
 Entreno y evaluo modelos con herramientas como Tensorflow con el objetivo de realizar predicciones o resaltar información destacada en función de las metas establecidas. 
 Colaboró con el equipo de desarrollo en el despliegue de la interfaz interactiva que permita la entrada de datos, incluyendo actualizaciones meteorológicas y movimientos de población, con generación de predicciones en tiempo real.
 Trabajo con distintos clientes y equipos para los proyectos realizados de diferentes industrias
 
-# **PROYECTOS SELECCIONADOS**
+---
 
+# **PROYECTOS SELECCIONADOS**
 
 
 
@@ -74,11 +76,11 @@ Trabajo con distintos clientes y equipos para los proyectos realizados de difere
 - Metricas de evaluacion, dando al modelo como optimo
 - Elaboracion del API desarrollada con Flask que permite subir imágenes de MRI y obtener predicciones en tiempo real.
 - Despliegue utilizando Docker en Google Cloud Platform (GCP), asegurando escalabilidad y eficiencia.
-- Repositorio git datos: 
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/Ferx096/brain_tumor_detector/tree/master).**
 
 ![Retail](https://github.com/Ferx096/PORTFOLIO/blob/main/images/brain_.png)
 
+---
 
 ## Analisis y clasificiacion de imagenes de mamografia con modelos preentrenados - version1 / Noviembre - Enenro 2025
 **Herramientas del proyecto:**
@@ -106,7 +108,6 @@ Trabajo con distintos clientes y equipos para los proyectos realizados de difere
 - Extracción de Características con Modelos Preentrenados
 - Selección de los Mejores Modelos utilizando informacion mutual, filtrando los mejores resultados de umbrales
 - Construcción de un Model Ensemble utilizando SVC, NuSVC y RandomForest para lograr un equilibrio en el sobreajuste
-- Repositorio git datos: 
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/Ferx096/v1_breast_cancer_m).**
 
 ![Churn](https://raw.githubusercontent.com/Ferx096/PORTFOLIO/refs/heads/main/images/breast_cancer.webp)
