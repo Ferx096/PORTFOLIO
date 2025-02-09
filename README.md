@@ -64,11 +64,14 @@ generación de predicciones en tiempo real.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-357ebd?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-357ebd?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23357ebd.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-357ebd?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Cloud Compute](https://img.shields.io/badge/Google%20Cloud%20Compute-357ebd?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-357ebd?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-357ebd?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-357ebd?style=for-the-badge&logo=postman&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-EE82EE?style=for-the-badge&logo=optuna&logoColor=white)
+
 
 **Fases:**
 
