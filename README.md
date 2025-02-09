@@ -79,7 +79,7 @@ generación de predicciones en tiempo real.
 - Despliegue utilizando Docker en Google Cloud Platform (GCP), asegurando escalabilidad y eficiencia.
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/Ferx096/brain_tumor_detector/tree/master).**
 
-![Retail](https://github.com/Ferx096/PORTFOLIO/blob/main/images/brain_.png)
+![brain_tumor](images/brain_.png)
 
 ---
 
@@ -111,4 +111,4 @@ generación de predicciones en tiempo real.
 - Construcción de un modelo ensemble utilizando SVC, NuSVC y RandomForest para lograr un equilibrio en el sobreajuste
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/Ferx096/v1_breast_cancer_m).**
 
-![Churn](https://raw.githubusercontent.com/Ferx096/PORTFOLIO/refs/heads/main/images/breast_cancer.webp)
+![breast_cancer](https://raw.githubusercontent.com/Ferx096/PORTFOLIO/refs/heads/main/images/breast_cancer.webp)
