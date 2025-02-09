@@ -87,7 +87,7 @@ generación de predicciones en tiempo real.
 ---
 
 
-## Analisis y clasificiacion de imagenes de mamografia con modelos preentrenados - version1 / Noviembre - Enenro 2025
+## Analisis y clasificiacion de imagenes de mamografia con modelos preentrenados - version1 / Noviembre - Enero 2025
 **Herramientas del proyecto:**
 
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) 
